@@ -7,7 +7,3 @@
 my_checkpoint/
 TF_Certificate_Candidate_Handbook.pdf
 data
-
-# covid data experiments (laziness)
-country_population.json
-covid_data.ipynb
