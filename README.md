@@ -1,5 +1,3 @@
 # TensorFlow Specialization - Coursera
 
-Code from the TensorFlow Specialization from Coursera
-
-### Resources
+Code from the TensorFlow Specialization from Coursera.
